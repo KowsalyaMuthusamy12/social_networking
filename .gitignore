@@ -1,1 +1,11 @@
+# Byte-compiled / optimized / DLL files
+social_networking/__pycache__/
 
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache
+
+user/migrations
+
+.env
