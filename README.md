@@ -31,7 +31,7 @@ Follow these steps to set up the project for local development.
 #### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/KowsalyaMuthusamy12/social_networking.git
    cd social_networking
 
 2. **create virtualenv**
